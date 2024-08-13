@@ -1,9 +1,9 @@
 {
   "name": "openai-gpt3",
-  "author": "Nikhil Mohite",
+  "author": "OWAIS KHILJI",
   "repository": {
     "type": "git",
-    "url": "https://github.com/nkilm/openai-gpt3"
+    "url": ""
   },
   "description": "Clone of GPT3 Website using Reactjs",
   "version": "0.1.0",
